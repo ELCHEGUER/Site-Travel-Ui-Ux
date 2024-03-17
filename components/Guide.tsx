@@ -17,7 +17,7 @@ const Guide = () => {
 
       <div className="flexCenter max-container relative w-full">
         <Image 
-          src="/boat.png"
+          src="/travel.jpg"
           alt="boat"
           width={1440}
           height={580}
@@ -38,12 +38,12 @@ const Guide = () => {
                 <p className="regular-16 text-gray-20">Destination</p>
                 <p className="bold-16 text-green-50">48 min</p>
               </div>
-              <p className="bold-20 mt-2">Aguas Calientes</p>
+              <p className="bold-20 mt-2">Paris</p>
             </div>
 
             <div className='flex w-full flex-col'>
               <p className="regular-16 text-gray-20">Start track</p>
-              <h4 className="bold-20 mt-2 whitespace-nowrap">Wonorejo Pasuruan</h4>
+              <h4 className="bold-20 mt-2 whitespace-nowrap">Moscow</h4>
             </div>
           </div>
         </div>
